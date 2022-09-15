@@ -1,0 +1,19 @@
+body {
+    background-color: #7393bc;
+    text-align: center;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #fffeadd5;
+}
+
+.name {
+    color: black;
+}
+
+a {
+    /*color: #d4bdb1;374059*/
+    color: #fffeadd5 ;
+    font-size: 23px;
+}
