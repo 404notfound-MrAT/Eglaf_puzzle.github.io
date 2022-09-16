@@ -9,7 +9,6 @@ body{
     width: 410px;
     height: 410px;
     border: 2px solid #ABD9FF;
-
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
@@ -18,7 +17,7 @@ body{
 #board img {
     width:100.5px;
     height: 100.5px;
-    border: 0.1px solid #ABD9FF;
+    border: 1px solid #ABD9FF;
 }
 
 
