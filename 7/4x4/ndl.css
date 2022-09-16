@@ -17,7 +17,7 @@ body{
 #board img {
     width:100.5px;
     height: 100.5px;
-    border: 1px solid #ABD9FF;
+    border: 0.1px solid #ABD9FF;
 }
 
 
