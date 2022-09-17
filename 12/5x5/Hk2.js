@@ -44,7 +44,7 @@ window.onload = function() {
 
     for (let i = 0; i < pieces.length; i++) {
         let tile = document.createElement("img");
-        tile.src = "./5x5/" + pieces[i] + ".jpeg";
+        tile.src = "./5x5/" + pieces[i] + ".JPEG";
         
         //DRAG FUNCTIONALITY
         tile.addEventListener("dragstart", dragStart); //click on image to drag
