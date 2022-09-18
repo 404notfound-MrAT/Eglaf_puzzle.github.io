@@ -6,9 +6,9 @@ body{
 }
 
 #board {
-    width: 410px;
-    height: 410px;
-    border: 2px solid #ABD9FF;
+    width: 420px;
+    height: 420px;
+    border: 0.1px solid #ABD9FF;
 
     margin: 0 auto;
     display: flex;
