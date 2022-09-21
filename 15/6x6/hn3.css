@@ -6,8 +6,8 @@ body{
 }
 
 #board {
-    width: 420px;
-    height: 420px;
+    width: 405px;
+    height: 405px;
     border: 0.1px solid #ABD9FF;
 
     margin: 0 auto;
